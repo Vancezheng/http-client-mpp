@@ -1,0 +1,3 @@
+rootProject.name = 'http-client-mpp'
+
+include ':app'
